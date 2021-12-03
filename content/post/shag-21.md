@@ -1,8 +1,12 @@
 +++
-title = "Creating a New Theme"
-description = "Description of my awesome project."
-date = 2014-09-28T02:13:50Z
-author = "Michael Henderson"
+title = "Sometimes You Just Don't Have It: The SHAG"
+description = "What do you do when you feel good about your game but everything goes wrong regardless? Let's talk about."
+tags = [
+    "tournament report",
+    "2021 season",
+]
+date = 2021-11-24
+author = "B. Breeden"
 +++
 
 ## Introduction

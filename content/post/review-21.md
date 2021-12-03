@@ -1,15 +1,12 @@
 +++
-title = "(Hu)go Template Primer"
-description = "(Hu)go Template Primer description."
+title = "2021 Season Review"
+description = "The 2021 season was exciting, frustrating, liberating, and downright fun. These are some of my key takeaways."
 tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
+    "tournament report",
+    "2021 season",
 ]
-date = 2014-04-02T02:13:50Z
-author = "Michael Henderson"
+date = 2021-12-02
+author = "B. Breeden"
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

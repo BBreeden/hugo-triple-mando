@@ -5,8 +5,8 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
+    headline = "THE TRIPLE MANDO"
+    description = "musings, ramblings, and the occasional good idea about the game of disc golf"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
