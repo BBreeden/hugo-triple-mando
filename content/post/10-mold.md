@@ -58,13 +58,13 @@ For comparison, here is my bag from a few years ago:
 
 If this model is something you would like to try for yourself, go for it! But before you run to your collection, let's set some ground rules.
 
-1. 10 molds it the max. If you want to try another mold, you have to drop one to make room for it.
+1. 10 molds is the max. If you want to add another mold, you have to drop one to make room for it.
 2. Set a time frame for the experiment. I recommend trying the 10 mold challenge for 30 rounds minimum. That way you have time to tweek things and get an honest assessment of how well it's going.
 3. Duplicates of the same mold are fine and, actually, encouraged. As discs wear in, their flight paths will change. This model is flexible enough to allow for that if it is something that interests you.
 
 ## A Note About Throwing Putters
 
-Having a neutral-stable putter is great for stabbing at the basket inside the circle. However, there is a very good case for slotting in a stable throwing putter. In that case, I recommend making cuts to the distance drivers first. There are a few reasons for this:
+Having a neutral-stable putter is great for stabbing at the basket from inside the circle. However, there is a very good case for slotting in a stable throwing putter. In that case, I recommend making cuts to the distance drivers first. There are a few reasons for this:
 
 1. Distance drivers are the most difficult to throw consistently.
 2. A lot of players do not have the power and control necessary to leverage the strengths of high speed drivers.
