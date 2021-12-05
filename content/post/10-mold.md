@@ -46,7 +46,7 @@ Putter:
 
 ![Sample Bag Diagram](/sample_bag.jpeg)
 
-What sticks out to me the most is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
+What sticks out to me is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
 
 For comparison, here is my bag from a few years ago:
 
