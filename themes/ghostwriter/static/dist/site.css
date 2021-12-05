@@ -1,4 +1,8 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+:root {
+  --primary-color: #562f91;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
   line-height: 1.15;
@@ -189,7 +193,7 @@ p {
   margin: 0 0 30px;
 }
 a {
-  color: #f03838;
+  color: var(--primary-color);
   text-decoration: none;
 }
 ol,
@@ -212,7 +216,7 @@ ul li:last-of-type {
   margin-bottom: 0;
 }
 blockquote {
-  border-left: 1px dotted #f03838;
+  border-left: 1px dotted var(--primary-color);
   margin: 40px 0;
   padding: 5px 30px;
 }
@@ -331,7 +335,7 @@ table tr {
 }
 .button-square,
 .button:hover {
-  background: #f03838;
+  background: var(--primary-color);
 }
 .button-square {
   color: #fff;
@@ -367,7 +371,7 @@ table tr {
   text-transform: none;
 }
 .site-title a {
-  background: #f03838;
+  background: var(--primary-color);
   color: #fefefe;
   float: left;
   padding: 5px 10px 6px;
@@ -438,7 +442,7 @@ table tr {
 .blog-description a:hover,
 .post-date a:hover,
 .post-reading a:hover {
-  color: #f03838;
+  color: var(--primary-color);
 }
 .post-line:after {
   border-bottom: 1px dotted #303030;
@@ -448,7 +452,7 @@ table tr {
   width: 100px;
 }
 .post-content a:hover {
-  border-bottom: 1px dotted #f03838;
+  border-bottom: 1px dotted var(--primary-color);
   padding: 0 0 2px;
 }
 .post-content:last-child {
@@ -487,7 +491,7 @@ table tr {
   float: right;
 }
 .share a {
-  background: #f03838;
+  background: var(--primary-color);
   color: #fff;
   display: inline-block;
   font-size: 16px;
@@ -505,7 +509,7 @@ table tr {
 }
 .newer-posts,
 .older-posts {
-  background: #f03838;
+  background: var(--primary-color);
   color: #fefefe;
   float: left;
   font-size: 14px;
@@ -543,11 +547,11 @@ table tr {
 }
 .post-stub a:hover {
   background: #fcf5f5;
-  color: #f03838;
+  color: var(--primary-color);
   padding: 20px 12px;
 }
 .post-stub a:hover .post-stub-tag {
-  background: #f03838;
+  background: var(--primary-color);
 }
 .post-stub-tag {
   background: #303030;
@@ -629,7 +633,7 @@ table tr {
   color: #aeadad;
 }
 .author-meta a:hover {
-  color: #f03838;
+  color: var(--primary-color);
 }
 .author-bio {
   margin: 20px auto 0;
@@ -665,14 +669,14 @@ table tr {
   color: #fefefe;
 }
 #nprogress .bar {
-  background: #f03838;
+  background: var(--primary-color);
 }
 #nprogress .peg {
-  box-shadow: 0 0 10px #f03838, 0 0 5px #f03838;
+  box-shadow: 0 0 10px var(--primary-color), 0 0 5px var(--primary-color);
 }
 #nprogress .spinner-icon {
-  border-left-color: #f03838;
-  border-top-color: #f03838;
+  border-left-color: var(--primary-color);
+  border-top-color: var(--primary-color);
 }
 @media only screen and (max-width: 800px) {
   .post-stub-tag {
