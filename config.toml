@@ -13,3 +13,6 @@ theme = "ghostwriter"
 
 [Permalinks]
     post = "/:filename/"
+
+[markup.goldmark.renderer]
+    unsafe = true

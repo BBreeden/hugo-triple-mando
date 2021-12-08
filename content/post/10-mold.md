@@ -44,7 +44,10 @@ Putter:
 
 * Aviar
 
-![Sample Bag Diagram](/sample_bag.jpeg)
+<button id="demo_bag_innova" onclick="myFunction()">Demo Bag (Innova)</button>
+<button id="demo_bag_discraft" onclick="myFunction()">Demo Bag (Discraft)</button>
+
+![sample_bag_innova](/sample_bag_innova.jpeg "Sample Bag Diagram for Innova")
 
 What sticks out to me is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
 
