@@ -23,31 +23,28 @@ In short, a primary goal of this design is to intentionally limit the number of 
 I call this model the "Over-Under-Middle". We want to identify a disc that is understable, stable, and overstable for each disc type (Midrange, Fairway, and Distance). Putters are typically not included here but I will address them specifically in a bit. If my math is correct, that gives us 9 molds + a putter mold for a total of 10. That is the goal, to keep our bag to 10 molds or less. Each mold needs to have a unique role that seperates it from the other molds in the bag.
 
 Distance Drivers:
-
 * Destroyer (Overstable)
 * Shryke (Stable)
 * Daedalus (Understable)
 
 Fairway Drivers:
-
 * Firebird (Overstable)
 * TL3 (Stable)
 * Leopard3 (Understable)
 
 Midrange: 
-
 * Gator (Overstable)
 * Mako (Stable)
 * Manta (Understable)
 
 Putter: 
-
 * Aviar
 
-<button id="demo_bag_innova" onclick="myFunction()">Demo Bag (Innova)</button>
-<button id="demo_bag_discraft" onclick="myFunction()">Demo Bag (Discraft)</button>
-
+<button id="demo_bag_innova" onclick="myFunction()">+ Demo Bag for Innova</button>
 ![sample_bag_innova](/sample_bag_innova.jpeg "Sample Bag Diagram for Innova")
+
+<button id="demo_bag_discraft" onclick="myFunction()">+ Demo Bag for Discraft</button>
+![sample_bag_discraft](/sample_bag_discraft.jpeg "Sample Bag Diagram for Discraft")
 
 What sticks out to me is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
 

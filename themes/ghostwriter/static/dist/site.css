@@ -86,6 +86,10 @@ select {
 [type="submit"],
 button {
   -webkit-appearance: button;
+  background-color: transparent;
+  border-color: transparent;
+  color: var(--primary-color);
+  cursor: pointer;
 }
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
