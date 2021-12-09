@@ -41,17 +41,16 @@ Midrange:
 Putter: 
 * Aviar
 
-<button id="demo_bag_innova" onclick="myFunction()">+ Demo Bag for Innova</button>
+<button value="sample_bag_innova" id="demo_bag_innova_button" onclick="hide_show_img(this)">+ Demo Bag for Innova</button>
 ![sample_bag_innova](/sample_bag_innova.jpeg "Sample Bag Diagram for Innova")
 
-<button id="demo_bag_discraft" onclick="myFunction()">+ Demo Bag for Discraft</button>
+<button value="sample_bag_discraft" id="demo_bag_discraft_button" onclick="hide_show_img(this)">+ Demo Bag for Discraft</button>
 ![sample_bag_discraft](/sample_bag_discraft.jpeg "Sample Bag Diagram for Discraft")
 
 What sticks out to me is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
 
-For comparison, here is my bag from a few years ago:
-
-![An Overloaded Bag Layout Diagram](/sample_bag_bad.jpeg)
+<button id="bad_bag_button" onclick="myFunction()">+ For comparison, here is my bag from a few years ago...</button>
+![bad_bag_example](/sample_bag_bad.jpeg "A sample bag that does not follow the proposed model")
 
 *Yikes! No good...* Notice how much overlap there is with this layout. If you throw a Viking and Valkyrie side-by-side, there is a good chance you will get a similar result. The same can be said with the Wraith and Destroyer... Teebird and Eagle... Dart and Aero... Firebird and Whippet (and so on). Thinking back, I have no idea how I decided which disc to throw. But that is a story for another time.
 

@@ -849,3 +849,9 @@ table tr {
     padding: 0 10px;
   }
 }
+
+#sample_bag_innova.hide,
+#sample_bag_discraft.hide,
+#bad_bag_example.hide {
+  display: none;
+}
