@@ -17,13 +17,13 @@ One of the most common topics in disc golf is equipment: bags, carts, rosin bags
 
 In 2004, Barry Schwartz released a book called The Paradox of Choice. The basic concept of his argument is that if we are presented with too many choices, we may experience anxiety around commiting to a decision. His book is directly referencing shopping, however, we can borrow this concept and apply it to how we design our bag.
 
-In short, a primary goal of this design is to intentionally limit the number of molds in the bag to make the disc selection choice easier.
+In short, a primary goal of this design is to intentionally limit the number of molds in the bag to make disc selection easier.
 
 ## Basic Structure and Sample Bag
 
 I call this model the "Over-Under-Middle". We want to identify a disc that is understable, stable, and overstable for each disc type (Midrange, Fairway, and Distance). Putters are typically not included here but I will address them specifically in a bit. If my math is correct, that gives us 9 molds + a putter mold for a total of 10. That is the goal, to keep our bag to 10 molds or less. Each mold needs to have a unique role that seperates it from the other molds in the bag.
 
-Distance Drivers:
+<!-- Distance Drivers:
 * Destroyer (Overstable)
 * Shryke (Stable)
 * Daedalus (Understable)
@@ -39,7 +39,7 @@ Midrange:
 * Manta (Understable)
 
 Putter: 
-* Aviar
+* Aviar -->
 
 <button value="sample_bag_innova" id="demo_bag_innova_button" onclick="hide_show_img(this)">+ Demo Bag for Innova</button>
 ![sample_bag_innova](/sample_bag_innova.jpeg "Sample Bag Diagram for Innova")
@@ -47,19 +47,21 @@ Putter:
 <button value="sample_bag_discraft" id="demo_bag_discraft_button" onclick="hide_show_img(this)">+ Demo Bag for Discraft</button>
 ![sample_bag_discraft](/sample_bag_discraft.jpeg "Sample Bag Diagram for Discraft")
 
-What sticks out to me is that each mold has a unique job. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
+Notice that each mold has a specific role to fill. If you throw a Gator and Mako side-by-side, it will become immediately apprent that they each have different strengths and weaknesses. This comparison can be applied to any two discs in the bag and the conclusion is the same: they are unique. That is what we want.
 
 <button value="bad_bag_example" id="bad_bag_button" onclick="hide_show_img(this)">+ For comparison, here is my bag from a few years ago...</button>
 ![bad_bag_example](/sample_bag_bad.jpeg "A sample bag that does not follow the proposed model")
 
-*Yikes! No good...* Notice how much overlap there is with this layout. If you throw a Viking and Valkyrie side-by-side, there is a good chance you will get a similar result. The same can be said with the Wraith and Destroyer... Teebird and Eagle... Dart and Aero... Firebird and Whippet (and so on). Thinking back, I have no idea how I decided which disc to throw. But that is a story for another time.
+*Yikes! No good...*
+
+There is a lot of overlap in this layout. If you throw a Viking and Valkyrie side-by-side, there is a good chance you will get a similar result. The same can be said with the Wraith and Destroyer... Teebird and Eagle... Dart and Aero... Firebird and Whippet (and so on). Thinking back, I have no idea how I decided which disc to throw. But that is a story for another time.
 
 ## The 10 Mold Challenge
 
 If this model is something you would like to try for yourself, go for it! But before you run to your collection, let's set some ground rules.
 
 1. 10 molds is the max. If you want to add another mold, you have to drop one to make room for it.
-2. Set a time frame for the experiment. I recommend trying the 10 mold challenge for 30 rounds minimum. That way you have time to tweek things and get an honest assessment of how well it's going.
+2. Set a time frame for the experiment. I recommend trying the 10 mold challenge for 30 rounds minimum. This will give you some time to tweek things and get an honest assessment of how well it's going.
 3. Duplicates of the same mold are fine and, actually, encouraged. As discs wear in, their flight paths will change. This model is flexible enough to allow for that if it is something that interests you.
 
 ## A Note About Throwing Putters
@@ -68,9 +70,9 @@ Having a neutral-stable putter is great for stabbing at the basket from inside t
 
 1. Distance drivers are the most difficult to throw consistently.
 2. A lot of players do not have the power and control necessary to leverage the strengths of high speed drivers.
-3. Fairways and midranges, traditionally, are used far more often than distance drivers.
+3. Fairways and midranges, traditionally, are used more often than distance drivers.
 
-Here is what that might look like:
+Here is what that might look like if we modify our Innova bag from earlier:
 ![Sample Bag With a Throwing Putter Diagram](/sample_bag_putter.jpeg)
 
 Thank you for reading! Until next time, may you always land in bounds and the chains always catch.
