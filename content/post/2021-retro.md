@@ -1,5 +1,5 @@
 +++
-title = "2021 in Review: Middle of the Road"
+title = "2021 in Review: Growth"
 description = "If I had to summarize my 2021 year, I would describe it as one of best years of my journey in regards to development. My physical game got better and my mental game got sharper. But it's a long story..."
 tags = [
     "Tournament Report",
