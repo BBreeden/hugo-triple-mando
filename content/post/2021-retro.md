@@ -40,7 +40,7 @@ The SHAG is my favorite tournament of the year. When I first started out, I was 
 As is tradition, I did not play well but I had a wonderful time. My friend Mike had some extra sausages at lunch that we shared, I got a disc in my players pack that went right into the bag, and I got to play a track dear to my heart. It was a great day.
 
 ## Conclusions, Key Takeaways, and Action Items
-* Equipment feels pretty good, I do not need to make any big bag changes in the off season.
+* Equipment feels pretty good, I do not need to make any bag changes in the off season.
 * Mental game feels much better. Keep it playful!
 * Enjoy the journey, trust the learning process.
 * Review some film in the off season to help identify any bad habits.
