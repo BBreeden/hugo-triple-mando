@@ -35,6 +35,13 @@ I was able to carry this momentum into Swover Creek. Interestingly, I did have a
 
 ## The SHAG
 ![A sculpture of a grinning head missing a tooth.](/shag.JPG)
-The SHAG is my favorite tournament of the year. I was graciously accepted into a small league of people that played at this course regularly when I first stared out. It had a significant impact on my early development as a player. Interestingly, I have never performed well here. It has this way of luring me into traps that get me into trouble. Nevertheless, the SHAG has always served as my 'victory lap'. I did not place any emphasis on outcome and I didn't even have a real goal. I just wanted to relax and take it all in.
+The SHAG is my favorite tournament of the year. When I first started out, I was graciously accepted into a small league of people that played at this course regularly. It had a significant impact on my early development as a player. Interestingly, I have never performed well here. It has this way of luring me into traps that get me into trouble. Nevertheless, the SHAG has always served as my 'victory lap'. I did not place any emphasis on outcome and I didn't even have a real goal. I just wanted to relax and take it all in.
 
-As is tradition, I did not play well but I had a wonderful time. My friend Mike had some extra sausages at lunch that we shared, I got a disc in my players pack that went right into the bag, and I got to play a track near to my heart. It was a great day.
+As is tradition, I did not play well but I had a wonderful time. My friend Mike had some extra sausages at lunch that we shared, I got a disc in my players pack that went right into the bag, and I got to play a track dear to my heart. It was a great day.
+
+## Conclusions, Key Takeaways, and Action Items
+* Equipment feels pretty good, I do not need to make any big bag changes in the off season.
+* Mental game feels much better. Keep it playful!
+* Enjoy the journey, trust the learning process.
+* Review some film in the off season to help identify any bad habits.
+* Schedule some in person coaching sessions in the spring.
