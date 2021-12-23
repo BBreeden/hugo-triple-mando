@@ -6,7 +6,7 @@ tags = [
 ]
 date = 2021-12-14
 author = "B. Breeden"
-draft = false
+draft = true
 +++
 ![A graphic with Brian's tournament results from the 2021 season.](/2021.png)
 When I reflect on these results I am not entirely sure where to begin. My season was turbulent and I struggled to maintain consistency (mentally and physically). However, looking back on it now, I cannot deny how important this season was to me. It pushed me in ways that I have never been pushed before. It taught me lessons that I will be unpacking for the entire offseason and beyond. But I guess I should start from the beginning...
@@ -21,7 +21,7 @@ I realized a change had to be made, but I pivoted in the wrong direction. Throwi
 
 Here is the thing about Ditto Farms. It is one of those courses that demands fairway placement. You are going to take bogeys and bad things are going to happen to you. Period.
 
-In hindsight, I shouldn't have be surprised that I lost my composure early in the first round. It was one of the only times in my journey that I considered withdrawing after the first round (that's how bad it was). I am glad I didnt becaiuse the second round went much better and I posted the third best round of my division. But that didn't change the fact that I needed to make another change.
+In hindsight, I shouldn't have be surprised that I lost my composure early in the first round. It was one of the only times in my journey that I considered withdrawing after the first round (that's how bad it was). I am glad I didnt because the second round went much better and I posted the third best round of my division. But that didn't change the fact that I needed to make another change.
 
 This time, however, I made no mistake in identifying where the issue was. It had nothing to do with my equipment or how I was throwing. It had everything to do with my mental approach to the game. It took six events for me to make this realization. The realization that one of the most important aspects of a well rounded golf game had been woefully neglected: mental composure.
 
